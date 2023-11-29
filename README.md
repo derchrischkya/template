@@ -1,11 +1,7 @@
 <a name="readme-top"></a>
 
 [![Version][version-badge]]
-[![Issues][issues-badge]][issues-url]
-[![Forks][forks-badge]][forks-url]
-[![Stars][stars-badge]][stars-url]
-[![MIT License][license-badge]][license-url]
-[![Build Status][workflow-badge]]
+
 
 <br />
 <div align="center">
