@@ -15,13 +15,13 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/derchrischkya/async-api"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/derchrischkya/template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/derchrischkya/async-api/issues">Report Bug</a>
+    <a href="https://github.com/derchrischkya/template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/derchrischkya/async-api/issues">Request Feature</a>
+    <a href="https://github.com/derchrischkya/template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -125,7 +125,7 @@ Don't forget to give the project a star! Thanks again!
 
 Christoph Richter  - christoph.richter1997@gmail.com
 
-Project Link: [https://github.com/derchrischkya/async-api](https://github.com/derchrischkya/async-api)
+Project Link: [https://github.com/derchrischkya/template](https://github.com/derchrischkya/template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
