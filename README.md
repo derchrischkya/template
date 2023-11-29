@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 [![Version][version-badge]]
-![Test](https://github.comderchrischkya/template/actions?query=workflow%3release)
+[![Test](https://github.comderchrischkya/template/actions?query=workflow%3release)]
 
 <br />
 <div align="center">
