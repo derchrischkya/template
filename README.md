@@ -1,14 +1,7 @@
 <a name="readme-top"></a>
-<!-- 
-![golang](https://img.shields.io/badge/golang-1.16.5-blue)
-![docker](https://img.shields.io/badge/docker-20.10.7-blue)
-![docker-compose](https://img.shields.io/badge/docker--compose-1.29.2-blue)
-![nsq](https://img.shields.io/badge/nsq-1.2.0-blue)
-![nats](https://img.shields.io/badge/nats-2.6.2-blue)
-![rabbitmq](https://img.shields.io/badge/rabbitmq-3.9.5-blue)
-![kafka](https://img.shields.io/badge/kafka-2.8.0-blue)
--->
 
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/derchrischkya/template/release.yaml)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/derchrischkya/template)
 <br />
 <div align="center">
   <h3 align="center">Template</h3>
