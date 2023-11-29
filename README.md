@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-![GitHub Tag](https://img.shields.io/github/derchrischkya/template/tags)
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 
 <br />
