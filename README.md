@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
-![GitHub contributors](https://img.shields.io/github/contributors/derchrischkya/template)
-![GitHub last commit](https://img.shields.io/github/last-commit/derchrischkya/template)
-![GitHub issues](https://img.shields.io/github/issues-raw/derchrischkya/template)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/derchrischkya/template)
-![GitHub](https://img.shields.io/github/license/derchrischkya/template)
+![GitHub Tag](https://img.shields.io/github/derchrischkya/template/tags)
 
 
 <br />
