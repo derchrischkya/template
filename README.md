@@ -1,6 +1,13 @@
 <a name="readme-top"></a>
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
-
+<!-- 
+![golang](https://img.shields.io/badge/golang-1.16.5-blue)
+![docker](https://img.shields.io/badge/docker-20.10.7-blue)
+![docker-compose](https://img.shields.io/badge/docker--compose-1.29.2-blue)
+![nsq](https://img.shields.io/badge/nsq-1.2.0-blue)
+![nats](https://img.shields.io/badge/nats-2.6.2-blue)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-3.9.5-blue)
+![kafka](https://img.shields.io/badge/kafka-2.8.0-blue)
+-->
 
 <br />
 <div align="center">
@@ -56,14 +63,10 @@
 
 
 ### Built With
-#### API-Server
-* Golang
+- Markdown
+- Github Actions
+- Github Pages
 
-#### Message Broker
-* NSQ
-* NATS
-* RabbitMQ
-* Kafka
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
