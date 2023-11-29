@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
-[![Version][version-badge]]
-[![Test](https://github.comderchrischkya/template/actions?query=workflow%3release)]
-
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/derchrischkya/template/release.yaml)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/derchrischkya/template)
 <br />
 <div align="center">
   <h3 align="center">Template</h3>
